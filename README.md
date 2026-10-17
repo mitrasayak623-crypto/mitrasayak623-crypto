@@ -53,13 +53,13 @@ public class Sayak {
 
 <img src="./h-projects.svg" alt="Projects" width="100%"/>
 
-<img src="./projects.svg" alt="Projects: Live TV Streaming App, VaultLedger AI, Logenx" width="100%"/>
+<img src="./projects.svg" alt="Projects: Live TV Streaming App, VaultLedger AI, Log-LenX" width="100%"/>
 
 <div align="center">
 
 **Live TV Streaming App** · [Live demo](YOUR_DEMO_URL) · [Source](YOUR_REPO_URL)
 **VaultLedger AI** · [Live demo](YOUR_DEMO_URL) · [Source](YOUR_REPO_URL)
-**Logenx** · [Live demo](YOUR_DEMO_URL) · [Source](YOUR_REPO_URL)
+**Log-LenX** · [Live demo](YOUR_DEMO_URL) · [Source](YOUR_REPO_URL)
 
 </div>
 
